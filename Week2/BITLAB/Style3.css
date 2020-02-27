@@ -1,0 +1,144 @@
+.container{
+	width:100%;
+	background: #fcfbf7;
+}
+
+.header{
+	width: 100%;
+	height: 25px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background-color: #057eff;	
+}
+
+.right-pt{
+	float: right;
+	margin-top: 5px;
+	margin-right: 8%;
+}
+
+
+.body{
+	display:flex;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 1%;
+}
+
+#body-left-pt{
+	border-radius: 1%;
+	width: 67%;
+	min-height: 300px;
+}
+
+#body-right-pt{
+	width: 33%;
+	min-height: 300px;
+	margin-left: 2%;
+}
+
+
+#logo{
+	color:white;
+	font-size: 20pt;
+	text-decoration: none;
+	font-family: Calibri;
+	margin-left: 5%;
+}
+
+#navbar-links{
+	text-decoration: none;
+	color:white;
+	margin-left: 16px;
+	font-family: Calibri;
+	font-size:15pt;
+	float: right;
+}
+
+#RM1{
+	width: 100%;
+	height: 305px;
+	margin-right: 5%;
+	border-radius: 1%;
+}
+
+
+#left-pt-par{
+	margin-top: -1%;
+	font-size: 14pt;
+	font-family: Times New Roman;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#read-more-btn{
+	text-align: center;
+	background-color: #057eff;
+	color:white;
+	text-decoration: none;
+	border: 0;
+	padding:1%;
+	border-radius: 4px;
+	margin-left:2%;
+	margin-bottom: 2%;
+}
+
+#u1{
+	border: 1.5px solid #d5dbe0;
+}
+
+#b1{
+	border: 1.5px solid #d5dbe0;
+	background-color: #ebf0f5;
+	border-top: 1.5px solid #d5dbe0;
+	min-height: 50px;
+}
+
+#u2{
+	border: 1.5px solid #d5dbe0;
+	margin-top: 3%;
+}
+
+#b2{
+	border: 1.5px solid #d5dbe0;
+	background-color: #ebf0f5;
+	border-top: 1.5px solid #d5dbe0;
+	min-height: 50px;
+}
+
+#right-pt-1{
+	border: 1.5px solid #d5dbe0;
+	border-radius: 2px;
+}
+
+#right-pt-1-u{
+	background-color: #ebf0f5;
+	min-height: 40px;
+	font-size: 18pt;
+	padding-top:1%;
+	padding-left: 2%;
+}
+
+#right-pt-1-b{
+}
+#right-pt-2{
+	margin-top: 5%;
+	border: 1.5px solid #d5dbe0;
+	border-radius: 2px;
+	min-height: 30%;
+}
+
+#right-pt-2-u{
+	background-color: #ebf0f5;
+	min-height: 40px;
+	font-size: 18pt;
+	padding-top:1%;
+	padding-left: 2%;
+}
+
+#right-pt-2-b{
+	min-height: 100px;
+	padding-bottom: 1%;
+
+}

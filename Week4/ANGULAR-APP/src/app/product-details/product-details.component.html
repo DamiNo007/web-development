@@ -1,0 +1,19 @@
+<h1 style="margin-left: 10%;">Product Details</h1>
+
+<div class = "content">
+  
+
+  <div *ngIf="product" style="display: flex;">
+
+    <img src = "{{product.img}}" width="320px" height="300px">
+
+    <div>
+      <h3>{{ product.name }}</h3>
+      <h4>{{ product.price }}</h4>
+      <p>{{ product.description }}</p>
+      <button (click)="addToCart(product)">Buy</button>
+    </div>
+    
+  </div>
+</div>
+

@@ -1,0 +1,40 @@
+.container{
+	width:100%;
+	background: #fcfbf7;
+}
+
+.header{
+	width: 100%;
+	height: 25px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background-color: #75093a;	
+}
+
+.right-pt{
+	float: right;
+	margin-top: 5px;
+	margin-right: 10%;
+}
+
+.right-pt a{
+	margin-left: 10px;
+	text-decoration: none;
+	color:white;
+	font-size: 18px;
+	font-family: Calibri;
+}
+
+
+.body{
+	width: 80%;
+	min-height: 50%;
+	margin-left: 10%;
+}
+
+.footer{
+	width: 100%;
+	background-color: #75093a;
+	min-height: 70px;
+	margin-top: 5%;
+}

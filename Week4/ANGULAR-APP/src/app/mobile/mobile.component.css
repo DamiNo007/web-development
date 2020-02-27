@@ -1,0 +1,10 @@
+.item{
+    width: 300px;
+    text-align:center;
+    margin-left: 3%;
+    margin-right: 3%;
+ }
+
+ .checked {
+    color: orange;
+  }

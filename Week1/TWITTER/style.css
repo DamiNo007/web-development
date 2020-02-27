@@ -1,0 +1,98 @@
+#body{
+	margin:-2%;
+	margin-bottom: 0px;
+	width: 100%; 
+	display: flex; 
+	min-height: 90%; 
+	display: flex;
+	min-height: 700px;
+	background-color: grey;
+}
+
+#left-part{
+	background-image: url("twitter_logo.png");
+
+	width: 50%; 
+}
+
+#right-part{
+	width: 50%;
+	background-color: yellow;
+}
+
+#left-content{
+	color:white;
+	font-family:Calibri;
+	font-size:20pt;
+	margin-top: 30%;
+}
+
+#text{
+	margin-top: 250px;
+}
+#text table{
+	position:absolute;
+	left: 220px;
+	top:250px;
+
+}
+
+.img{
+	padding-top: 5%;
+}
+
+#table1 p{
+	font-size: 18pt;
+	margin-top: 2%;
+	height: 2px;
+}
+
+#right-part-content{
+	width:60%;
+	margin-left:20%;
+	margin-top:20%;
+}
+
+#register-form, #login-form{
+	width:30%;
+	margin-left: 35%;
+}
+
+#register{
+  background-color:blue;
+  color:white;
+  border-radius: 5px;
+  border-color:blue;
+  height: 30px;
+}
+
+#footer{
+	z-index: 2;
+}
+#enter{
+  color:blue;
+  border-radius: 5px;
+  border-color:blue;
+  height: 30px;
+}
+
+#login, #password{
+	border-radius: 5px;
+	margin-top:2%;
+}
+
+
+.enter_btn{
+  color:blue;
+  border-radius: 5px;
+  border-color:blue;
+  height: 30px;
+  margin-top:2%;
+}
+
+#right-pt{
+	font-size:30pt;
+	font-family:Calibri;
+	font-weight: bold;
+
+}
