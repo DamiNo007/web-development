@@ -18,4 +18,4 @@ class Product(models.Model):
     description = models.TextField('description of the product')
     count = models.IntegerField('number of products')
     def __str__(self):
-        return  self.name
+        return  "Name: %s; Price: %d" % (self.name, self.price)
